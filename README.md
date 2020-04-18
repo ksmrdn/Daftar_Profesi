@@ -197,4 +197,4 @@ Disediakan sebuah dataset yang berisi daftar profesi beberapa responder, unduh: 
 
     Output yang diharapkan:
 
-    <img src='./soal2c.png' width='40%' height='40%'>
+    <img src='https://raw.githubusercontent.com/ksmrdn/Daftar_Profesi/master/Ujian_AnalyticsVisualization_JCDS07-master/soal2c.png' width='40%' height='40%'>
